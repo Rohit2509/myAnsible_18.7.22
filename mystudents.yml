@@ -1,0 +1,23 @@
+---
+- mystudents:
+  - name: Hari
+    Phno: 14542575
+    Address:
+      Houseno: 254
+      Streetno: 2
+      Pin: 785548
+
+  - name: Chiku
+    Phno: 67742245
+    Address:
+      Houseno: 74
+      Streetno: 6
+      Pin: 658745
+  
+  - name: Rohit
+    Phno: 5487425
+    Address:
+      Houseno: 65
+      Streetno: 7
+      Pin: 248475
+  
