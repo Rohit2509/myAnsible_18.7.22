@@ -11,3 +11,6 @@
 172.31.38.133
 
 
+[mywebserver:vars]
+mywebserverpackonubuntu= apacha222
+mywebserverpackonredhat= httpd
