@@ -1,7 +1,7 @@
 ---
 - hosts: 172.31.30.245
   become: yes
-  var: 
+  vars: 
     myvar1: git
     myvar2: wget
     myvar3: tree
@@ -9,4 +9,3 @@
   -  name: display var1
      debug:
        msg: "{{myvar1}}"  
-       
